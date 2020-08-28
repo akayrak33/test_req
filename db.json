@@ -1,0 +1,14 @@
+{
+    "status": true,
+    "code": 200,
+    "data": [
+        {
+            "stock_card": {
+                "name": "Twitter Inc.",
+                "code": "TWTR",
+                "watch_listed": true
+            }
+        }
+    ],
+    "message": null
+}
